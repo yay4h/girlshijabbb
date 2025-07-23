@@ -43,4 +43,4 @@ Hijab bukan hanya simbol penutup kepala, tetapi juga bagian dari sebuah perjalan
 
 Selama puluhan tahun, perempuan berhijab terus membentuk komunitas yang aktif, cerdas, dan mandiri—berkontribusi dalam berbagai bidang kehidupan sambil tetap memegang teguh prinsipnya. Mereka menciptakan ruang yang aman dan penuh makna bagi sesama, serta menjadi inspirasi di tengah dunia yang terus berkembang.
 
-Mengenal gadis berhijab adalah tentang memahami kekuatan dalam kesederhanaan, kelembutan dalam keteguhan, dan keindahan yang hadir dari dalam. Setiap hijab membawa cerita, dan setiap cerita mencerminkan karakter, semangat, serta harapan akan masa depan yang lebih inklusif dan penuh penghargaan terhadap keberagaman.
+Mengenal gadis berhijab adalah tentang memahami kekuatan dalam kesederhanaan, kelembutan dalam keteguhan, dan keindahan yang hadir dari dalam. Setiap hijab membawa cerita, dan setiap cerita mencerminkan karakter, semangat, serta harapan akan masa depan yang lebih inklusif dan penuh penghargaan terhadap keberagamannn.
