@@ -7,17 +7,15 @@ featuredpost: true
 description: >-
   Kami sangat senang mengumumkan bahwa minggu depan, Hijab Girl akan merilis koleksi hijab edisi terbatas bertema “Nuansa Timur Tengah” — terinspirasi dari kehangatan budaya, pesona warna alami, dan kemewahan tekstur khas kawasan tersebut. Koleksi ini akan tersedia dalam jumlah sangat terbatas, dengan pilihan bahan satin silk premium dan voile ringan yang cocok untuk segala suasana—mulai dari kegiatan harian hingga momen istimewa.
 tags:
-  - 🗓 Pre-order mulai Senin depan
-  - 🛍 Pengiriman dimulai Selasa 
-  - ⚠️ Persediaan terbatas – siapa cepat, dia dapat!
-  - 🙌🏻 Stay tuned!
-  - Hijab Girll Rajeg Aeshetic
-  - Hijab Girll tangerang rajegg
-  - Hijab Girll cantik Rajeg
+  - Hijab Girll
+  - Hijab Girll Muslimah Indonesa
+  - Hijab Girll Rajeg 
+  - Hijab Girll Tangerang
+  - Hijab Girll Fashion Rajeg
   - Hijab Girll shopp my id
   - Hijab Girll fauziah shop
   - Hijab Girll Rajeg Tangerang
-  - motif-motif hijab girll 
+  - Hijab Girll motif
   - hijab girll minimalis
 ---
 
