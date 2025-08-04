@@ -3,7 +3,7 @@ module.exports = {
     title: "Hijab Girll",
     description:"This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
     author: "Yayah Paujiah",
-    keywords: "Hijab Girll Hijab Girll Muslimah Indonesa Hijab Girll Rajeg Hijab Girll TangerangHijab Girll Fashion Rajeg Hijab Girll shopp my id Hijab Girll fauziah shop Hijab Girll Rajeg Tangerang Hijab Girll motif hijab girll minimalis Hijab Girll Style Indonesia Hijab Girll Hijab Girll Tangerang Hijab Girll Muslimah Indonesia Hijab Girll Fashion Rajeg Hijaber Girll Tangerang Wanita Girll Berhijab Hijab Girll Cantik Syar’i Hijab Girll Inspiration Hijab Girl in Rajeg Tangerang Hijab Girll stylish Fashion Rajeg Hijab Trends in Rajeg Tangerang Hijab Girll bikin cantik",
+    keywords: "Hijab Girll, Hijab Girl, Muslimah Indonesa, Hijab Girll Rajeg, Hijab Girll Tangerang, Hijab Girll Fashion Rajeg, Hijab Girll shopp my id, Hijab Girll fauziah shop, Hijab Girll Rajeg Tangerang, Hijab Girll motif, hijab girll minimalis, Hijab Girll Style Indonesia, Hijab Girll Hijab Girll Tangerang, Hijab Girll Muslimah Indonesia, Hijab Girll Fashion Rajeg, Hijaber Girll Tangerang Wanita, Hijab Girll Berhijab, Hijab Girll Cantik Syar’i, Hijab Girll Inspiration, Hijab Girl in Rajeg Tangerang, Hijab Girll stylish Fashion Rajeg, Hijab Trends in Rajeg Tangerang, Hijab Girll bikin cantik",
     
     url:"https://hijabgirlshop.my.id/",  
   },
